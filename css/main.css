@@ -10,7 +10,7 @@ body {
     line-height: 38.8223px;
     text-align: justify;
     text-align-last: center;
-       @media all and (max-width: 1024px) {
+       @media all and (max-width: 600px) {
 	#wrapper {
 		width: 600px;
 	}
