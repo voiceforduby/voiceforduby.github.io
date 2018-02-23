@@ -3,8 +3,9 @@ body {
     margin-bottom: 22.4px;
     margin-left: 50px;
     max-width: 700px;
-    font-family:'Times New Roman';
-    font-size: 16px;
+    font-family:'Georgia';
+    font-Size: 23.994px;
+    line-height: 38.8223px;
 }
 nav ul, footer ul {
     font-family:'Merriweather Web';
