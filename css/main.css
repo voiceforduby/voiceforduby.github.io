@@ -10,7 +10,16 @@ body {
     line-height: 38.8223px;
     text-align: justify;
     text-align-last: center;
-       html { -webkit-text-size-adjust: none; }
+       @media all and (max-width: 1024px) {
+	#wrapper {
+		width: 600px;
+	}
+}
+@media all and (max-width: 480px) {
+	#wrapper {
+		width: 300px;
+	}
+}
 }
 nav ul, footer ul {
     font-family:'Merriweather Web';
