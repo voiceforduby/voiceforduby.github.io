@@ -8,6 +8,8 @@ body {
     font-family: Georgia, "Century Schoolbook", "Times New Roman", Times, serif;
     font-Size: 23.994px;
     line-height: 38.8223px;
+    text-align: justify;
+    text-align-last: center;
 }
 nav ul, footer ul {
     font-family:'Merriweather Web';
