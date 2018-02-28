@@ -9,7 +9,7 @@ body {
     font-Size: 23.994px;
     line-height: 38.8223px;
     text-align: justify;
-    text-align-last: center;
+   
 
 }
 }
@@ -34,6 +34,8 @@ a:hover {
 h1 {
     font-family:'Merriweather Web', 'Georgia', 'Times New Roman';
     font-size: 16px;
+           text-align: justify;
+
 }
 p {
     font-size: 1.5em;
@@ -41,6 +43,8 @@ p {
     color: #333;
        font-family:'Merriweather Web', 'Georgia', 'Times New Roman';
     font-size: 16px;
+           text-align: justify;
+
 }
 footer {
     border-top: 1px solid #d5d5d5;
